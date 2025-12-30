@@ -1,0 +1,7 @@
+{
+  "name": "The Editor's FireRemote",
+  "description": "A sophisticated Fire TV universal remote assistant featuring an AI editor who provides brutally honest but charming reviews and navigation help.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
